@@ -35,10 +35,6 @@
     "@testim/root-cause-core": "0.1.33",
     "@testim/root-cause-jest": "0.1.33"
   },
-  "peerDependencies": {
-    "playwright": ">= 1.1.1 < 2",
-    "puppeteer": "^3.0.4 | ^4.0.0 | ^5.0.0"
-  },
   "devDependencies": {
     "@jest/reporters": "^26.5.0",
     "@jest/types": "^26.5.0",
